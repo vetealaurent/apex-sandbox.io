@@ -4,7 +4,7 @@
 **/
 public with sharing class NumberDifference {
     
-    private Integer Diff(Integer a, Integer b){
+    private Integer diff(Integer a, Integer b){
         return a >= b ? a - b : b - a;
     }
 }
