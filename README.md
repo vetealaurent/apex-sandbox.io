@@ -1,3 +1,3 @@
 ## ApexSandbox.io project
 
-Code snipets from the [ApexSandbox.io](https://www.apexsandbox.io/) challenges.
+Code snippets from the [ApexSandbox.io](https://www.apexsandbox.io/) challenges.
